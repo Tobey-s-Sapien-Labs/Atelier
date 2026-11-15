@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="Authoring.AppHost/Authoring.AppHost.csproj" />
-  <Project Path="Authoring.Controller/Authoring.Controller.csproj" />
-</Solution>
