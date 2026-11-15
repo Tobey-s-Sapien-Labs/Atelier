@@ -1,0 +1,6 @@
+@Authoring.AppHost_HostAddress = http://localhost:5015
+
+GET {{Authoring.AppHost_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
