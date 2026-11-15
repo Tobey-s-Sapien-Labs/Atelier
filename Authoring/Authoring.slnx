@@ -2,4 +2,5 @@
   <Project Path="AppHost/AppHost.csproj" />
   <Project Path="Business/Business.csproj" />
   <Project Path="Controller/Controller.csproj" />
+  <Project Path="Repository/Repository.csproj" />
 </Solution>
