@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="Source/Atelier.AppHost/Atelier.AppHost.csproj" />
+  <Folder Name="/Source/">
+    <Project Path="Source/Atelier.AppHost/Atelier.AppHost.csproj" />
+  </Folder>
 </Solution>
