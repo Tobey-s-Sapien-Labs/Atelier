@@ -1,0 +1,6 @@
+@Atelier.AppHost_HostAddress = http://localhost:5231
+
+GET {{Atelier.AppHost_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
