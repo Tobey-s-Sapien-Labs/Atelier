@@ -4,5 +4,7 @@
     <Project Path="Source/Atelier.Business/Atelier.Business.csproj" />
     <Project Path="Source/Atelier.BusinessImplement/Atelier.BusinessImplement.csproj" />
     <Project Path="Source/Atelier.Controller/Atelier.Controller.csproj" />
+    <Project Path="Source/Atelier.Repository/Atelier.Repository.csproj" />
+    <Project Path="Source/Atelier.RepositoryImplement/Atelier.RepositoryImplement.csproj" />
   </Folder>
 </Solution>
