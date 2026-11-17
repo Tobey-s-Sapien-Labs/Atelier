@@ -1,12 +1,12 @@
 <Solution>
   <Folder Name="/Source/">
-    <Project Path="Source/Atelier.AppHost/Atelier.AppHost.csproj" />
-    <Project Path="Source/Atelier.Business/Atelier.Business.csproj" />
-    <Project Path="Source/Atelier.BusinessImplement/Atelier.BusinessImplement.csproj" />
-    <Project Path="Source/Atelier.Controller/Atelier.Controller.csproj" />
-    <Project Path="Source/Atelier.Repository/Atelier.Repository.csproj" />
-    <Project Path="Source/Atelier.RepositoryImplement/Atelier.RepositoryImplement.csproj" />
-    <Project Path="Source/Atelier.Tools/Atelier.Tools.csproj" />
-    <Project Path="Source/Atelier.ToolsImplement/Atelier.ToolsImplement.csproj" />
+    <Project Path="Source/Authoring.AppHost/Authoring.AppHost.csproj" />
+    <Project Path="Source/Authoring.Business/Authoring.Business.csproj" />
+    <Project Path="Source/Authoring.BusinessImplement/Authoring.BusinessImplement.csproj" />
+    <Project Path="Source/Authoring.Controller/Authoring.Controller.csproj" />
+    <Project Path="Source/Authoring.Repository/Authoring.Repository.csproj" />
+    <Project Path="Source/Authoring.RepositoryImplement/Authoring.RepositoryImplement.csproj" />
+    <Project Path="Source/Authoring.Tools/Authoring.Tools.csproj" />
+    <Project Path="Source/Authoring.ToolsImplement/Authoring.ToolsImplement.csproj" />
   </Folder>
 </Solution>
